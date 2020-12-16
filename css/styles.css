@@ -1,0 +1,22 @@
+img {
+    width: 200px;
+    margin: 1rem 1rem;
+}
+
+.left {
+    display: flex;
+}
+
+.right {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.hide {
+    display: none;
+}
+
+.under {
+    display: flex;
+    flex-direction: column-reverse;
+}
